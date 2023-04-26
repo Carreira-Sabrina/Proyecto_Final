@@ -1,0 +1,6 @@
+url_bd=jdbc:mysql://localhost:3306/
+nombre_bd=apuestas_qatar_2022
+usuario=root
+password=LtCdrData_4249
+puntos_extras_acertar_todos_los_partidos_ronda=5
+puntos_extras_acertar_todos_los_partidos_fase=20
